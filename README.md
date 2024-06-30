@@ -45,11 +45,14 @@ Valor inicial de i: 0
 Valor final de i: 200
 Passo: 25
 Face: 1
+![image](https://github.com/davitoyokawa/cubo_rgb/assets/109833260/7469a0a1-0eaf-4c89-961f-356dbd77844e)
 
 - Para visualizar as faces do cubo com valores de i = 0:
 Opção: Todas as faces
 Valor inicial de i: 0
 Valor final de i: -
 Passo: -
+![image](https://github.com/davitoyokawa/cubo_rgb/assets/109833260/e74034d7-9b07-4eef-94aa-512aba23d47c)
+
 
 

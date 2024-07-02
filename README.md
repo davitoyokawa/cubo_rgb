@@ -39,6 +39,14 @@ Execute o script `main.py`:
 
 ## Exemplos de Uso
 
+-Para visualizar a face 6 do cubo com i = 150:
+Opção Face específica
+Valor inicial de i: 150
+Face: 6
+Resto: -
+
+![image](https://github.com/davitoyokawa/cubo_rgb/assets/109833260/55ce4a8e-8ffb-41be-bdfd-1d39b37fb6df)
+
 - Para visualizar a face 1 do cubo com valores de \( i \) de 0 a 200:
 Opção: Face específica
 Valor inicial de i: 0
@@ -55,6 +63,7 @@ Valor final de i: -
 Passo: -
 
 ![image](https://github.com/davitoyokawa/cubo_rgb/assets/109833260/e74034d7-9b07-4eef-94aa-512aba23d47c)
+
 
 
 

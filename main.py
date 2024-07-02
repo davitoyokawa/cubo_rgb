@@ -76,7 +76,10 @@ def mostrar_intervalo_faces(i_start, i_end, opcao, passo, face=None):
         grid.append(np.hstack(row_images))
     final_image = np.vstack(grid)
 
-    cv.imshow(f"Intervalo de i: {i_start} - {i_end} com passo {passo}", final_image)
+    if opcao == 1 and i_start == i_end:
+        cv.imshow(f"Face: {face} i: {i_start}", final_image)
+    else:
+        cv.imshow(f"Intervalo de i: {i_start} - {i_end} com passo {passo}", final_image)
     cv.waitKey(0)
     cv.destroyAllWindows()
 
